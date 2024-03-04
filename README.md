@@ -43,6 +43,7 @@ Predicción de la Huella de Carbono: Utilizar las variables disponibles en el co
 
 
 **CONCLUSIONES**
+<img width="414" alt="image" src="https://github.com/diegohmenesesUAO/talleres/assets/158610980/7a6b0d1b-b4a3-46de-b49d-c497b95b4f85">
 
 Esta tabla muestra la importancia de cada característica en nuestro modelo de aprendizaje automático, indicando cuánto contribuye cada una al poder predictivo del modelo. La distancia mensual recorrida por vehículos es la más influyente, seguida por la frecuencia de viajes aéreos y el tipo de vehículo. Otras características como la cantidad de ropa nueva comprada mensualmente y la frecuencia semanal de disposición de bolsas de basura también son relevantes, aunque en menor medida. Factores como el género, el tipo de cuerpo, y el tamaño de las bolsas de basura tienen un impacto menor. La eficiencia energética y el modo de transporte son los menos determinantes.
 
